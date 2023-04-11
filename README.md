@@ -1,6 +1,6 @@
 # Project
 
-👉 4차산업혁명 핵심기술 키워드 추출 & 데이터 분석 (Keyword_Crawling)
+👉 4차산업혁명 핵심기술 키워드 추출 & 데이터 분석 (4IR_Keyword_Crawling)
 - 언어 및 작업툴 : R, RStudio
 - 인원 : 1명
 - 기간 : 2023.02.06 - 2023.02.10
