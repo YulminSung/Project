@@ -2,5 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/1. Predicting and minimizing damages from wildfires in Gangwon Province" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2. AMP®-Parkinson's Disease Progression Prediction" vcs="Git" />
   </component>
 </project>
